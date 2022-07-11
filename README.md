@@ -29,7 +29,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=clevercoderjoy&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=clevercoderjoy&icon=4&color=12)](https://visitcount.itsvg.in)
