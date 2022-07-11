@@ -1,5 +1,6 @@
 # 💫 About Me:
 💩I'm a call center employee turned software developer who lifts, codes, and invests in myself.<br>🌱 I’m currently learning Front-end Development 
+https://i.pinimg.com/originals/71/7b/72/717b726ce30c0ce677d4bb33145171d5.jpg
 
 
 ## 🌐 Socials:
