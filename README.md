@@ -7,17 +7,21 @@
   <br>
   <strike>I am a Programmor</strike>
   <br>
+  <br>
   I write CODE!
 </h2>
 
 <p align="center">💩I'm a call center employee turned software developer who lifts, codes, and invests in myself.<br>🌱 I’m currently learning Front-end Development.</p>
 
-<div align="center"><img id=badges src="https://komarev.com/ghpvc/?username=clevercoderjoy&style=flat-square&color=blue" alt=""/></div>
+<div align="center"><img height="100%" width="175px" id=badges src="https://komarev.com/ghpvc/?username=clevercoderjoy&color=blue" alt=""/></div>
 
 ## 🌐 Socials:
-[![BioLink](https://img.shields.io/badge/BioLink-clvercoderjoy-blueviolet)](https://clevercoderjoy.bio.link/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-clvercoderjoy--portfolio-informational)](https://clevercoderjoy-portfolio-one.netlify.app/)
-
+<br>
+<div align="center">
+<a href="https://clevercoderjoy.bio.link/" target="_blank"><img height="100%" width="173px" src="https://img.shields.io/badge/Bio.Link-clevercoderjoy-blueviolet" alt=""/></a>
+<a href="https://clevercoderjoy-portfolio-one.netlify.app/" target="_blank"><img height="100%" width="225px" src="https://img.shields.io/badge/Portfolio-clvercoderjoy--portfolio-informational" alt=""/></a>
+  <a href="https://clevercoderjoy.hashnode.dev/" target="_blank"><img height="100%" width="157px" src="https://img.shields.io/badge/Blogs-clevercoderjoy-red" alt=""/></a>
+ </div>
 
 
 # 💻 Tech I Know:
@@ -40,7 +44,7 @@
 ### ✍️ Random Dev Quote
 <br>
 <p>
-  <img width="80%" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" />
+  <img width="100%" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" />
 </p>
 
 ---
