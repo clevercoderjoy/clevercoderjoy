@@ -11,9 +11,21 @@
   I write CODE!
 </h2>
 
-<p align="center">💩I'm a call center employee turned software developer who lifts, codes, and invests in myself.<br>🌱 I’m currently learning Front-end Development.</p>
+<p align="center">💩I'm a call center employee turned software developer who lifts, codes, and invests in myself.<br>🌱 I’m currently learning Front-end Development and I aspire to become a T-Shaped developer.</p>
 
 <div align="center"><img height="100%" width="175px" id=badges src="https://komarev.com/ghpvc/?username=clevercoderjoy&color=blue" alt=""/></div>
+
+## 🌐 Motivational:
+<div>
+  <strong>Read about my career transition journey</strong>
+  <br>
+  <br>
+  <div align="center">
+    <a href="https://clevercoderjoy.hashnode.dev/my-journey-from-being-a-born-failure-to-an-aspiring-software-developer-part-1" target="_blank">
+      <img height="30px" width="300px" src="https://img.shields.io/badge/Journey%20From%200%20to%201-Read%20The%20Blog-critical" alt=""/>
+    </a>
+  </div>
+</div>
 
 ## 🌐 Socials:
 <br>
