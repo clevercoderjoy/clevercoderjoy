@@ -44,6 +44,7 @@
 ### ✍️ Random Dev Quote
 <br>
 <p>
+  <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
   <img width="100%" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" />
 </p>
 
