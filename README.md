@@ -17,7 +17,7 @@
 
 ## 🌐 Motivational:
 <div>
-  <strong>Read about my career transition journey</strong>
+  <strong>Read about my career transition journey from being a born failure to making it BIG in life</strong>
   <br>
   <br>
   <div align="center">
