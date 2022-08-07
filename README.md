@@ -1,5 +1,5 @@
 <!-- # 💫 About Me: -->
-<h1 align= "center">Hi👋, I'm clevercoderjoy</h1> <br>
+<h1 align= "center">Hi👋, I'm Joy</h1> <br>
 <h2 align="center">
   <strike>I am a Programmer</strike>
   <br>
