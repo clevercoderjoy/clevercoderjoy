@@ -1,5 +1,5 @@
 <!-- # 💫 About Me: -->
-<h1 align= "center">Hi👋, I'm Joy</h1> <br>
+<h1 align= "center">Hi💩, I'm Joy</h1> <br>
 <h2 align="center">
   <strike>I am a Programmer</strike>
   <br>
@@ -11,15 +11,24 @@
   I write CODE!
 </h2>
 
-<p align="center">💩I'm a call center employee turned software developer who lifts, codes, and invests in myself.<br>🌱 I’m currently learning Front-end Development and I aspire to become a T-Shaped developer.</p>
+<p align="center">
+  👉 I'm a call center employee turned Software Engineer.
+  <br>
+  👉 I Code, Lift, and Invest in myself.
+  <br>
+  👉 I’m currently learning Front-end Development.
+  <br>
+  👉 I am an aspiring T-Shaped Developer.
+</p>
+
 <br>
+
 <div align="center">
 <a  href="https://visitcount.itsvg.in">
   <img height="100%" width="200px"  src="https://visitcount.itsvg.in/api?id=clevercoderjoy&label=Profile%20Views&pretty=false" />
 </a>
 </div>
 
-<br>
 <br>
 
 <p align="center">
@@ -44,10 +53,13 @@
 ## Tech Stack 💻
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![Python](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+
+
+
 
 #### JS Framework/Library
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
