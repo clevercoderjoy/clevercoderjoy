@@ -1,17 +1,21 @@
-<!-- # 💫 About Me: -->
-<h1 align= "center">Hi💩, I'm Joy</h1> <br>
-<h2 align="center">
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74505057/184452029-e331c881-2b96-405e-920e-8afda80a41f0.jpg?raw=true" width="450" height="500" />
+
+# 💫 About Me:
+
+
+<h1 align= "">Hi💩, I'm Joy</h1>
+<h2 align="">
   <strike>I am a Programmer</strike>
   <br>
   <strike>I am a Programer</strike>
   <br>
   <strike>I am a Programmor</strike>
-  <br>
+
   <br>
   I write CODE!
 </h2>
 
-<p align="center">
+<p align="">
   👉 I'm a call center employee turned Software Engineer.
   <br>
   👉 I Code, Lift, and Invest in myself.
@@ -23,7 +27,7 @@
 
 <br>
 
-<div align="center">
+<div align="">
 <a  href="https://visitcount.itsvg.in">
   <img height="100%" width="200px"  src="https://visitcount.itsvg.in/api?id=clevercoderjoy&label=Profile%20Views&pretty=false" />
 </a>
@@ -31,7 +35,7 @@
 
 <br>
 
-<p align="center">
+<p align="">
  <a href="https://clevercoderjoy.bio.link/" target="_blank"><img alt="" src="https://img.shields.io/badge/Bio.Link-000?logo=biolink&logoColor=12&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://clevercoderjoy-portfolio-one.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://clevercoderjoy.hashnode.dev/" target="_blank"><img alt="" src="https://img.shields.io/badge/Blogs-000?logo=hashnode&logoColor=blue&style=for-the-badge" style="vertical-align:center-width:300px" /></a></p>
@@ -39,10 +43,10 @@
 
 ## 🌐 Motivational:
 <div>
-  <strong>Read about my career transition journey from being a born failure to making it BIG in life</strong>
+  <strong>Read about my career transition journey from being a born failure to making it GOOD in life</strong>
   <br>
   <br>
-  <div align="center">
+  <div align="">
     <a href="https://clevercoderjoy.hashnode.dev/my-journey-from-being-a-born-failure-to-an-aspiring-software-developer-part-1" target="_blank">
       <img height="30px" width="300px" src="https://img.shields.io/badge/read%20about%20my%20Journey%20from%200%20to%201-0F9D58?&style=for-the-badge" alt=""/>
     </a>
