@@ -15,7 +15,7 @@
 <br>
 <div align="center">
 <a  href="https://visitcount.itsvg.in">
-  <img height="100%" width="200px"  src="https://visitcount.itsvg.in/api?id=clevercoderjoy&label=Profile%20Views&pretty=false" />
+  <img height="100%" width="200px"  src="https://visitcount.itsvg.in/api?id=clevercoderjoy&label=Profile%20Views&pretty=true" />
 </a>
 </div>
 
@@ -35,7 +35,7 @@
   <br>
   <div align="center">
     <a href="https://clevercoderjoy.hashnode.dev/my-journey-from-being-a-born-failure-to-an-aspiring-software-developer-part-1" target="_blank">
-      <img height="30px" width="300px" src="https://img.shields.io/badge/Journey%20From%200%20to%201-Read%20The%20Blog-critical" alt=""/>
+      <img height="30px" width="300px" src="https://img.shields.io/badge/read%20about%20my%20Journey%20from%200%20to%201-0F9D58?&style=for-the-badge" alt=""/>
     </a>
   </div>
 </div>
