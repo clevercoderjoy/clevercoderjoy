@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74505057/184452029-e331c881-2b96-405e-920e-8afda80a41f0.jpg?raw=true" width="450" height="500" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74505057/184452029-e331c881-2b96-405e-920e-8afda80a41f0.jpg?raw=true" width="500" height="600" />
 
 # 💫 About Me:
 
