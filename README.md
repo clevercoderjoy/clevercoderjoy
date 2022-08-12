@@ -97,7 +97,7 @@
 ### ✍️ Random Dev Quote
 <br>
 <p>
-  <img width="100%" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" />
+  <img width="100%" src="https://github-readme-quotes.herokuapp.com/quote?&theme=jolly&date_format=j%20M%5B%20Y%5D&animation=grow_out_in" />
 </p>
 
 ---
