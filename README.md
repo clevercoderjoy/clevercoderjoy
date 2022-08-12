@@ -15,7 +15,7 @@
 <br>
 <div align="center">
 <a  href="https://visitcount.itsvg.in">
-  <img height="100%" width="200px"  src="https://visitcount.itsvg.in/api?id=clevercoderjoy&label=Profile%20Views&pretty=true" />
+  <img height="100%" width="200px"  src="https://visitcount.itsvg.in/api?id=clevercoderjoy&label=Profile%20Views&pretty=false" />
 </a>
 </div>
 
@@ -85,15 +85,9 @@
 # 📊 GitHub Stats:
 <br>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=clevercoderjoy&show_icons=true&theme=highcontrast&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=clevercoderjoy&theme=highcontrast&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevercoderjoy&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-
-## 🏆 GitHub Trophies
-<br>
-<p>
-  <img width="75%" src="https://github-profile-trophy.vercel.app/?username=clevercoderjoy&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=clevercoderjoy&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true" />
+  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=clevercoderjoy&theme=jolly&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevercoderjoy&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" />
 </p>
 
 <p align="center">
