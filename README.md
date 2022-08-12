@@ -18,11 +18,11 @@
 <p align="">
   👉 I'm a call center employee turned Software Engineer.
   <br>
-  👉 I Code, Lift, and Invest in myself.
-  <br>
   👉 I’m currently learning Front-end Development.
   <br>
   👉 I am an aspiring T-Shaped Developer.
+  <br>
+  👉 I Code, Lift, and Invest in myself.
 </p>
 
 <br>
