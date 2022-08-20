@@ -48,7 +48,7 @@
   <br>
   <div align="">
     <a href="https://clevercoderjoy.hashnode.dev/my-journey-from-being-a-born-failure-to-an-aspiring-software-developer-part-1" target="_blank">
-      <img height="30px" width="300px" src="https://img.shields.io/badge/read%20about%20my%20Journey%20from%200%20to%201-0F9D58?&style=for-the-badge" alt=""/>
+      <img height="30px" width="250px" src="https://img.shields.io/badge/My%20Journey%20from%200%20to%201-0F9D58?&style=for-the-badge" alt=""/>
     </a>
   </div>
 </div>
