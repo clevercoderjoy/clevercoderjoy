@@ -41,7 +41,7 @@
 <a href="https://clevercoderjoy.hashnode.dev/" target="_blank"><img alt="" src="https://img.shields.io/badge/Blogs-000?logo=hashnode&logoColor=blue&style=for-the-badge" style="vertical-align:center-width:300px" /></a></p>
 
 
-## 🌐 Motivational:
+## 🌐 Motivation:
 <div>
   <strong>Read about my career transition journey from being a born failure to making it GOOD in life</strong>
   <br>
