@@ -16,13 +16,13 @@
 </h2>
 
 <p align="">
-  👉 I'm a call center employee turned Software Engineer.
+  A call center employee turned Software Engineer.
   <br>
-  👉 I’m currently learning Front-end Development.
+  Learning Web Development.
   <br>
-  👉 I am an aspiring T-Shaped Developer.
+  An aspiring T-Shaped Developer.
   <br>
-  👉 I Code, Lift, and Invest in myself.
+  I code clean and lift heavy.
 </p>
 
 <br>
