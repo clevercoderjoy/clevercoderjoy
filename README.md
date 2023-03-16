@@ -22,7 +22,7 @@
   <br>
   An aspiring T-Shaped Developer.
   <br>
-  I code clean and lift heavy.
+  I write code and lift weights.
 </p>
 
 <br>
